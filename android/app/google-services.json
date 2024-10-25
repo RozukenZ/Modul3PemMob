@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "978888448663",
+    "project_id": "modulcodelab3",
+    "storage_bucket": "modulcodelab3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:978888448663:android:1d520b76c78c87160d67d2",
+        "android_client_info": {
+          "package_name": "com.example.codelabmodul3pemmob"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCttytv5VdbLn5Pz2dnSWZXy27BFBsTHt4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
